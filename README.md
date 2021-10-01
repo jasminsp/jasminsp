@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jasminsp
-- 👀 I’m interested in software development in all levels.
-- 🌱 I’m currently learning Android but in the future looking to expand to iOS too.
-- 💞️ I’m looking to collaborate with like-minded people.
-- 📫 How to reach me... Prorabably through here.
+- 👋 Hi, My name is Jasmin
+- 👀 I’m interested in mobile software development in all kinds
+- 🌱 Studying Information Technology with major in Mobile Solutions
+- 📫 How to reach me... Prorabably through here :)
+- 
 
 <!---
 jasminsp/jasminsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
