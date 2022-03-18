@@ -1,7 +1,7 @@
 **Hi, my name is Jasmin - Mobile developer to be..**
 - 📖 Studying Information Technology with major in Mobile Solutions in [Metropolia University of Applied Sciences](https://metropolia.fi/fi).
 - ❓ I’m interested in mobile software development with special focus on usability and design.
-- 💻 Currently working with React Native -application project
+- 💻 Currently working with iOS -application project 
 
 
 I will be publishing here some of my project work as well as individual achievements
