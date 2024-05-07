@@ -1,5 +1,4 @@
 **Hi, my name is Jasmin**
-- 📖 Studying Information Technology with major in Mobile Solutions in [Metropolia University of Applied Sciences](https://metropolia.fi/fi).
 - ❓ I’m interested in mobile software development with special focus on usability and design.
 
 I will be publishing here some of my project work as well as individual achievements
