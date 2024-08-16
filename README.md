@@ -1,7 +1,6 @@
 **Hi, my name is Jasmin**
-- ❓ I’m interested in mobile software development with special focus on usability and design.
 
-I will be publishing here some of my project work as well as individual achievements
+I will be publishing here some of my work in mobile application development and design.
 
 ### **You can find me from:**
 LinkedIn: [Jasmin Partanen](https://www.linkedin.com/in/jasminpartanen/)
